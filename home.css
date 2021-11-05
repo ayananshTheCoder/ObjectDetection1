@@ -1,0 +1,58 @@
+#headingDiv
+{
+    width: 70%;
+    padding: 5px;
+    background-color: beige;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+body
+{
+    background-color: navajowhite;
+    font-family: monospace;
+    margin: 0px;
+}
+
+#headingMain
+{
+    font-size: 50;
+}
+
+#subHeading
+{
+    font-size: 25px;
+    color: gray;
+}
+
+#olDiv
+{
+    font-size: 20px;
+    text-align: left;
+    padding: 5px;
+    width: 70%;
+    background-color: beige;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+a
+{
+    color: black;
+}
+
+#copyright
+{
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    padding: 5px;
+    position: fixed;
+    text-align: center;
+}
+
+#subHeading2
+{
+    font-size: 18px;
+    color: gray;
+}
